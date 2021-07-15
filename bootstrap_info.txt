@@ -1,0 +1,76 @@
+components
+
+there are various omponents in a bootstrap
+1.navbar : provides navigation bar code
+           if we want to disable some element,we can disables it also
+
+           we can get a code for disable from getbootstrap.com
+
+           the full website is made using bootstrap components
+
+2.breadcrumb
+3.colors info : bootstrap shows which color is for what
+        blue .text-primary i.e anything-primary
+        red  .text-danger      anything-danger
+        green .text-success    anything-success
+        orange .text-warning   anything-warning
+
+4. alert : this cannot be dismissed
+5. dismissable alerts : can be dismissed
+                        just put it below navigation bar.
+
+6. badges : if we want to apply badges in our html
+    1.pill badges
+    2.badges with links...
+
+7. buttons
+    1. outline buttons : on hovering ,this buttons change there colors
+    2. large buttons
+    3. small buttons
+    4. disabled state buttons
+    5. block buttons 
+    6. button groups
+
+8. cards : therr are so many types of cards are there
+9. Carousel : using this,we can create slide show of images
+10. .container class - it sets a maximum width,and wrap our content inside a box
+    .container-fluid - it set's the width to 100%
+
+
+Bootstrap Grid System :-
+
+                    In case of bootstrap grid system,
+                    inside 1 row there ae 12 columns
+                    col-1 to col-12
+
+                    col-2 : 2 columns
+                    col-6 : 6 columns 
+                    col-12 : 12 columns
+
+Bootstrap is a mobile friendly framework,which can provide ,
+responsiveness over diff mobile devices , using it's classes
+
+col-sm-no of columns : for small columns
+col-md-no of columns : for medium columns
+col-no of columns : for extra small columns
+.col-lg-no of columns	:for large columns
+
+.col-xl-no of columns : for extra large columns	
+.col-xxl-no of columns
+
+11. Modal
+12. form components
+13. jumbotron 
+14. spinners and so many
+ 
+
+margin on y axis is given as 'my-4' i.e margin on y axis is 4
+
+left-margin : ml-4
+right-margine : mr-4
+x axis : mx-4
+
+Modal : we want that when we click on login or signup ,modal will open
+
+
+
